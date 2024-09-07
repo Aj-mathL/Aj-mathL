@@ -1,6 +1,7 @@
 - 👋 Hi, I’m @Abhijit Majumder
 - 👀 I’m interested in C/C++, Python, JavaScript and Html/css. 
-- 🌱 I’m currently learning advance python and JavaScript. 
+- 🌱 I’m currently learning advance python and JavaScript.
+- I also learning c++ framework dorogon, If anyone interest on this topci contact me. 
 - 💞️ I’m looking to collaborate on python and javascript and C/C++ in advance lavel. 
 - 📫 Contact me via my email id abhijitmajumder545@gmail.com
 - 😄 Pronouns: ...
